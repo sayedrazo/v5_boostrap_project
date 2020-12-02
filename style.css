@@ -1,0 +1,63 @@
+body.h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans',
+    sans-serif;
+}
+/* menu area start */
+.custome-menu{
+
+}
+.custome-menu .navbar-brand {
+    font-size: 26px;
+    font-weight: 500;
+}
+.custome-menu1 span i {
+       display: inline-block;
+       text-align: center;
+       width: 31px;
+       color: #6278DF;
+       height: 39px;
+       position: relative;
+       top: 2px; 
+       border-radius: 10px;
+       margin-right: 7px;
+}
+
+/* slider-sart */
+
+.slider{
+    margin: 10px 0;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 12.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #f1f1f1;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+/* accordiant start */
+
+section.accordiant img {
+    height: 335px;
+}
+.accordiant{
+    margin:20px 0;
+}
+
+/* form area start */
+.form{
+    margin: 40px 0;
+}
+.needs-validation{
+     background-color: #E48294;
+}
+.footer{
+margin: 40px 0;
+}
+.footer1{
+    background-color: #EFAAB2;
+}
